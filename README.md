@@ -41,7 +41,7 @@ Based on the dataframes created in Steps 3 and 4, calculations were made to dete
 
  2. The number of 5-star reviews for each category
 
- 3. The percetnage of 5-star reviews for each category
+ 3. The percentage of 5-star reviews for each category
 
 
  <img src="images/4_paid_reviews_counts.PNG"></img>
